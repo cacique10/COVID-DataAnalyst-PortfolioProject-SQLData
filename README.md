@@ -1,11 +1,5 @@
 # COVID-DataAnalyst-PortfolioProject-SQLData
 
-
-	28/9/23
-		
-	------------------------------------------------------------------------------
-	
-	
 	
 	Project Objectives:
 
